@@ -53,7 +53,7 @@ Selected Publications
 
 - [ICCV] [Anatomical Invariance Modeling and Semantic Alignment for Self-supervised Learning in 3D Medical Image Analysis](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Anatomical_Invariance_Modeling_and_Semantic_Alignment_for_Self-supervised_Learning_in_ICCV_2023_paper.html), **Yankai Jiang**, Mingze Sun, Heng Guo, Xiaoyu Bai, Ke Yan, Le Lu, Minfeng Xu, *ICCV 2023*, **Oral Presentation**.
 
-- [IJCAI] [SatFormer: Saliency-Guided Abnormality-Aware Transformer for Retinal Disease Classification in Fundus Image](https://www.ijcai.org/proceedings/2022/0138.pdf), **Yankai Jiang**, Ke Xu, Xinyue Wang, Yuan Li, Hongguang Cui, Yubo Tao, Hai Lin, *IJCAI 2022*, **Oral Presentation**.
+- [IJCAI] [SatFormer: Saliency-Guided Abnormality-Aware Transformer for Retinal Disease Classification in Fundus Image](https://www.ijcai.org/proceedings/2022/0138.pdf), **Yankai Jiang**, Ke Xu, Xinyue Wang, Yuan Li, Hongguang Cui, Yubo Tao, Hai Lin, *IJCAI 2022*.
 
 - [MICCAI] [CephalFormer: incorporating global structure constraint into visual features for general cephalometric landmark detection](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_22), **Yankai Jiang**, Yiming Li, Xinyue Wang, Yubo Tao, Jun Lin, Hai Lin, *MICCAL 2022*, **Early Accepted Paper**.
 
